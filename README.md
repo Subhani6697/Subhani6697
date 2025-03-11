@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with data structures and algorithms<br>
 💬 Ask me about my previous work experience<br>
 📫 How to reach me: shaiksubhani6697@gmail.com<br>
-😄 Pronouns: Subha<br>
+😄 Pronouns: Subbu<br>
 ⚡ Fun fact: I would be happy if you call me with Pronoun mentioned<br>
        _Thank you_ 😄
