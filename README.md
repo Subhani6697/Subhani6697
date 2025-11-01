@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
--->🔭 I’m currently working on developing web applications and services
-🌱 I’m currently learning Java Programming<br>
-👯 I’m looking to collaborate on projects related to web apps<br>
+-->🔭 I’m currently working on developing web applications
+🌱 I’m currently learning CyberSecurity<br>
+👯 I’m looking to collaborate on projects related to CyberSecurity<br>
 🤔 I’m looking for help with data structures and algorithms<br>
 💬 Ask me about my previous work experience<br>
 📫 How to reach me: shaiksubhani6697@gmail.com<br>
