@@ -5,12 +5,8 @@
 
 Here are some ideas to get you started:
 
--->🔭 I’m currently working on developing web applications
-🌱 I’m currently learning CyberSecurity<br>
-👯 I’m looking to collaborate on projects related to CyberSecurity<br>
-🤔 I’m looking for help with data structures and algorithms<br>
+-->🔭 I’m currently working on developing Gen AI applications
+🌱 I’m currently learning Agentic AI Systems<br>
+👯 I’m looking to collaborate on projects related to AI/ML<br>
 💬 Ask me about my previous work experience<br>
-📫 How to reach me: shaiksubhani6697@gmail.com<br>
-😄 Pronouns: Subbu<br>
-⚡ Fun fact: I would be happy if you call me with Pronoun mentioned<br>
        _Thank you_ 😄
